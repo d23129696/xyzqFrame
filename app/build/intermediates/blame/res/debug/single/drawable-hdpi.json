@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more_normal.png",
+        "source": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\src\\main\\res\\drawable-hdpi\\more_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_disabled.png",
+        "source": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\src\\main\\res\\drawable-hdpi\\home_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\order_disabled.png",
+        "source": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\src\\main\\res\\drawable-hdpi\\order_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\order_normal.png",
+        "source": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\src\\main\\res\\drawable-hdpi\\order_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home_normal.png",
+        "source": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\src\\main\\res\\drawable-hdpi\\home_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\me_disabled.png",
+        "source": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\src\\main\\res\\drawable-hdpi\\me_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\me_normal.png",
+        "source": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\src\\main\\res\\drawable-hdpi\\me_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\more_disabled.png",
+        "source": "C:\\Users\\dailu\\Desktop\\MyFrame\\app\\src\\main\\res\\drawable-hdpi\\more_disabled.png"
+    }
+]

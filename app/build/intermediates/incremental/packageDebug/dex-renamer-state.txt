@@ -1,0 +1,7 @@
+#Mon Mar 20 11:29:39 GMT+08:00 2017
+base.0=C\:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_926e6121ae6bf8e455a2337d0a95c49a70daf4a7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad9785e6085affc26d8ccb626761c85a6e781cd2\\classes.dex
+base.1=C\:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ad9785e6085affc26d8ccb626761c85a6e781cd2
+file.0=C\:\\Users\\dailu\\Desktop\\MyFrame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_926e6121ae6bf8e455a2337d0a95c49a70daf4a7\\classes.dex
